@@ -1,7 +1,7 @@
 package main
-import "fmt"
+import ("github.com/local/Bencode")
 func main(){
-	fmt.Print("test")
+	Bencode.Test();
 }
 
 
